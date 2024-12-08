@@ -1,2 +1,2 @@
-# RUMONMD89-SQL-Driven-Data-Analytics
+# SQL-Driven-Data-Analytics
 (Python+SQL)
