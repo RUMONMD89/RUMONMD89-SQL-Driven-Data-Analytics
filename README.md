@@ -11,3 +11,4 @@ https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio
 
 課題：
 1) find top 10 highest revenue generating products
+<img src="pictures/top 10 highest saleing product.png" height="400px" width ="550px">　
