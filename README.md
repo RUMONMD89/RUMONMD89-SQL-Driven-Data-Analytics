@@ -1,7 +1,7 @@
 # SQL-Driven-Data-Analytics
 (Python+SQL)
 環境設定：
-1) jupyter notebook
+1) Jupyter Notebook
 https://jupyter.org/
 2) SQL server download
 https://www.microsoft.com/en-us/sql-server/sql-server-downloads
