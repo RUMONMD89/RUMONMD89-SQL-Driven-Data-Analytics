@@ -12,6 +12,6 @@ https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio
 課題：
 1) find top 10 highest revenue generating products
 <img src="pictures/top 10 highest saleing product.png" height="300px" width ="550px">
-2) top 3 highest selling products in each region
 
-  <img src="pictures/top 3 highest selling products in each region.png" height="300px" width = "550px">
+2) top 3 highest selling products in each region
+ <img src="pictures/top 3 highest selling products in each region.png" height="300px" width = "550px">
