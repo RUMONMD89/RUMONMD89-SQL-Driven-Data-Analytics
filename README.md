@@ -17,4 +17,4 @@ https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio
  <img src="pictures/top 3 highest selling products in each region.png" height="300px" width = "550px">
 
 3) Compare month-over-month growth between 2022~2023
- <img src="pictures/top 3 highest selling products in each region.png" height="300px" width = "550px">
+ <img src="pictures/compare month growth.png" height="300px" width = "550px">
