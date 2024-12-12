@@ -15,3 +15,6 @@ https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio
 
 2) Identify the top 3 best-selling products in each region.
  <img src="pictures/top 3 highest selling products in each region.png" height="300px" width = "550px">
+
+3) Compare month-over-month growth between 2022~2023
+ <img src="pictures/top 3 highest selling products in each region.png" height="300px" width = "550px">
