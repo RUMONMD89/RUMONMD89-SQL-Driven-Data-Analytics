@@ -10,7 +10,7 @@ https://www.microsoft.com/en-us/sql-server/sql-server-downloads
 https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16
 
 課題：
-1) find out the top 10 highest revenue-generating products
+1) Find  the top 10 highest revenue-generating products
 <img src="pictures/top 10 highest saleing product.png" height="300px" width ="550px">
 
 2) Identify the top 3 best-selling products in each region.
