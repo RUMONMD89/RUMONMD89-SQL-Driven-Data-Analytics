@@ -18,3 +18,7 @@ https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio
 
 3) Compare month-over-month growth between 2022~2023
  <img src="pictures/compare month growth.png" height="300px" width = "550px">
+
+4) Identify the top3 month with the highest sales for each category
+ <img src="pictures/compare month growth.png" height="300px" width = "550px">
+
