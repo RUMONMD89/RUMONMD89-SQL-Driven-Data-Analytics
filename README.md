@@ -20,5 +20,5 @@ https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio
  <img src="pictures/compare month growth.png" height="300px" width = "550px">
 
 4) Identify the top3 month with the highest sales for each category
- <img src="pictures/compare month growth.png" height="300px" width = "550px">
+ <img src="pictures/Identify the top3 month with the highest sales for each category.png" height="300px" width = "550px">
 
