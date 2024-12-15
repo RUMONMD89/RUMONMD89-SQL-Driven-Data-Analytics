@@ -22,3 +22,6 @@ https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio
 4) Identify the top3 month with the highest sales for each category
  <img src="pictures/Identify the top3 month with the highest sales for each category.png" height="300px" width = "550px">
 
+5) identify the which top 5 sub category has highest growth by profit in 2023 compare to 2022
+ <img src="pictures/identify the which top 5 sub category has highest growth by profit in 2023 compare to 2022.png" height="300px" width = "550px">
+
